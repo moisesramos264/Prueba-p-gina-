@@ -1,0 +1,27 @@
+{
+  "name": "Mi App Personal",
+  "short_name": "MiApp",
+  "description": "Mi App Personal - PWA de productividad, notas, clientes y negocios",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08080a",
+  "theme_color": "#d4af37",
+  "lang": "es",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20512%20512'%3E%3Crect%20width='512'%20height='512'%20rx='96'%20fill='%23d4af37'/%3E%3Ctext%20x='256'%20y='340'%20font-family='Georgia,serif'%20font-size='240'%20font-weight='bold'%20fill='%2308080a'%20text-anchor='middle'%3EMA%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20512%20512'%3E%3Crect%20width='512'%20height='512'%20rx='96'%20fill='%23d4af37'/%3E%3Ctext%20x='256'%20y='340'%20font-family='Georgia,serif'%20font-size='240'%20font-weight='bold'%20fill='%2308080a'%20text-anchor='middle'%3EMA%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
